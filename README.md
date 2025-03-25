@@ -28,4 +28,4 @@ Matplotlib will be used to visualize training progress, loss/accuracy curves, an
 Need Help?
 If you encounter any issues or need assistance with setting up the app or training the model, feel free to reach out via email or post your question on the repository’s issue tracker.
 
-There are some additional elements which test the resnet efficiency, remove duplicate files and learn how the kernal is working for CNNS.
+There are some additional elements which test the resnet efficiency, remove duplicate files and learn how the kernal is working for CNN's.
